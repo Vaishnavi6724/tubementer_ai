@@ -1,0 +1,15 @@
+import sqlite3
+
+DATABASE = "tube_mentor.db"
+
+
+def get_connection():
+
+    return sqlite3.connect(
+        DATABASE
+    )
+
+
+def initialize_database():
+
+  

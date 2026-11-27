@@ -1,0 +1,16 @@
+Column,Data_Type,Missing_Values,Missing_Percentage,Unique_Values
+video_id,str,0,0.0,480
+title,str,0,0.0,475
+channel_name,str,0,0.0,451
+url,str,0,0.0,480
+language,str,0,0.0,34
+duration_seconds,int64,0,0.0,376
+clean_text,str,0,0.0,480
+api_title,str,97,20.21,379
+api_channel_name,str,97,20.21,360
+published_at,str,97,20.21,255
+category_id,float64,97,20.21,15
+view_count,float64,97,20.21,345
+like_count,float64,107,22.29,168
+comment_count,float64,99,20.62,96
+api_duration,str,97,20.21,314
